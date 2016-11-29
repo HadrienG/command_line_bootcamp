@@ -12,7 +12,7 @@ if (!qs.id) {
 var opts = {
   guide: 'guide/',
   console: 'terminal.html',
-  server: "46.101.11.144:8080",
+  server: "77.235.253.199:8088",
   id: qs.id
 }
 
